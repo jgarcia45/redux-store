@@ -1,7 +1,7 @@
 <h1 align="center"> State Extra Credit Assignment: Redux Store </h1>
 
 [![MSU](https://img.shields.io/badge/MSU-Coding%20Bootcamp-green/)](https://bootcamp.msu.edu/)
-![GitHub](https://img.shields.io/github/license/jgarcia45/book-search-engine)
+![GitHub](https://img.shields.io/github/license/jgarcia45/redux-store)
 
 ## Technologies
 ![Technologies](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white)
@@ -16,6 +16,7 @@
 ![Technologies](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
 
 ## Description
+Refactored the e-commerce platform so that it uses [Redux](https://redux.js.org/).
 
 ## Installation
 ***Requirments***
@@ -52,17 +53,17 @@ THEN I find that the app uses Redux instead of the Context API
 ```
 
 ## Screenshot
-![Homepage]()
+![Homepage](./homepage.png)
 
 ## Link
-A link to the [code]():
+A link to the [code](https://github.com/jgarcia45/redux-store):
+```
+https://github.com/jgarcia45/redux-store
 ```
 
+A link to the [Deployed Application](https://radiant-reef-66907.herokuapp.com/):
 ```
-
-A link to the [Deployed Application]():
-```
-
+https://radiant-reef-66907.herokuapp.com/
 ```
 
 ## License
